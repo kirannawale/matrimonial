@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shadi"
+    }
+  },
+  "defaultProject": "shadi",
+  "cli": {
+    "analytics": false
+  }
 }
